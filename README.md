@@ -15,6 +15,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![HTTP](https://img.shields.io/badge/-HTTP-333333?style=flat&logo=http)
-## ☎️ 联系我
-<p> 微信：g2168522719</p>
-
+## ☎️ 联系我 微信：g2168522719
