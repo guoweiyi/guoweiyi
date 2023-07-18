@@ -1,8 +1,11 @@
 
-# 👋 你好! 我是郭惟一 Guoweiyi
-## 🧑 普通的高一学生
-## 👨‍💻 编程爱好者，喜欢编写一些有趣的项目
-## 🛠 技术栈
+## 👋 你好! 我是Guoweiyi
+
+### 🧑 普通的高一学生
+
+### 👨‍💻 编程爱好者，喜欢编写一些有趣的项目
+
+### 🛠 技术栈
 ![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -15,4 +18,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![HTTP](https://img.shields.io/badge/-HTTP-333333?style=flat&logo=http)
-## ☎️ 联系我 微信：g2168522719
