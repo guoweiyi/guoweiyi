@@ -1,9 +1,7 @@
 ## Hi I'm Guoweiyi 👋
 
-蒟蒻的准大一新生～ 
+A freshman who's trying hard to learn network security and algorithms ～
 
-## [我的小站～](https://www.gwy.fun/)
+[Homepage](https://www.gwy.fun) / [Blog](https://gwy.fun/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoweiyi)](https://github.com/guoweiyi/)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guoweiyi&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.haotian.dev/?username=Guoweiyi&show_icons=true&bg_color=30,fafafa,f0f0f0" alt="Guoweiyi's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.haotian.dev/top-langs?username=Guoweiyi&layout=compact&langs_count=8&bg_color=30,fafafa,f0f0f0" alt="Guoweiyi's GitHub Top Langs" height="185px" />
